@@ -15,5 +15,4 @@ def freqAlphabets(s: str) -> str:
     return word
 
 
-# freqAlphabets("10#21#12")
 print(freqAlphabets("1326#"))
